@@ -1,4 +1,4 @@
-# Asmi
+# About Me
 <h1 align="center">Hi 👋, I'm Asmi Khare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
